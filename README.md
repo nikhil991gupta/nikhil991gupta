@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil991gupta" alt="nikhil991gupta" /></a> </p>
 
-- 💬 Ask me about **Java,Sql**
+- 💬 Ask me about **Java, Sql**
 
 - 📫 How to reach me **nikhil991gupta@gmail.com**
 
