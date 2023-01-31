@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil991gupta&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil991gupta" /> </p>
@@ -24,10 +24,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil991gupta&show_icons=true&locale=en" alt="nikhil991gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil991gupta&" alt="nikhil991gupta" /></p>
- -->
+
  
  
- ### Hi there, I'm Nikhil👋
+<!--  ### Hi there, I'm Nikhil👋
 
 [![Linkedin:Nikhil](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilgupta13/)](https://www.linkedin.com/in/nikhilgupta13//)
 ![GitHub followers](https://img.shields.io/github/followers/nikhil991gupta?label=Follow&style=social)
@@ -57,5 +57,5 @@
 
 
 
-  <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil991gupta&layout=compact&theme=radical&hide_border=true" alt="nikhil991gupta" /></p>
+  <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil991gupta&layout=compact&theme=radical&hide_border=true" alt="nikhil991gupta" /></p> -->
 
