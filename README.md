@@ -10,7 +10,7 @@
 - 📫 How to reach me **nikhil991gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 <a href="https://linkedin.com/in/nikhilgupta13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilgupta13" height="30" width="40" /></a>
 <a href="https://instagram.com/kin_nik_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kin_nik_16" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@nikhil991gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nikhil991gupta" height="30" width="40" /></a>
