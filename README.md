@@ -1,5 +1,11 @@
 <!-- <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=nikhil991gupta&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil991gupta" /> 
+</p>
+![GitHub followers](https://img.shields.io/github/followers/nikhil991gupta?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=nikhil991gupta&label=Profile+views)
+
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil991gupta&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil991gupta" /> </p>
 
