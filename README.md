@@ -41,3 +41,21 @@ I'm a passionate frontend developer from India.
 #### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+
+---
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="Banner" width="600"/>
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="Coding" height="200"/>
+</div>
+
+<div align="center">
+    <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Coding Gif" width="160"/>
+    <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Coding Gif" width="160"/>
+    <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Coding Gif" width="160"/>
+    <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Coding Gif" width="160"/>
+    <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="Coding Gif" width="160"/>
+</div>
