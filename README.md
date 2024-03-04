@@ -44,6 +44,9 @@
  
 ![Profile views](https://komarev.com/ghpvc/?username=nikhil991gupta&label=Profile+views)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AgentRittik" alt="AgentRittik" /></a> </p>
+
+
 [![Linkedin:Nikhil](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilgupta13/)](https://www.linkedin.com/in/nikhilgupta13//)
 ![GitHub followers](https://img.shields.io/github/followers/nikhil991gupta?label=Follow&style=social)
 
