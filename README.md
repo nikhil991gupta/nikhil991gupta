@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
+<!-- <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> 
 
@@ -38,7 +38,7 @@
 
  
    
-  <!--    
+      
       
  ### Hi there, I'm Nikhil👋
  
@@ -111,7 +111,7 @@
 <a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=nikhil991gupta&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
 <a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=nikhil991gupta&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
 </p> -->
-  <!--
+  
    <p align="center">
     <a href="https://wakatime.com/@Voko">
         <img src="https://activity-graph.herokuapp.com/graph?username=nikhil991gupta&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
